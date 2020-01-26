@@ -1,0 +1,6 @@
+patch:
+  show_notifications_when: appropriate # 状态通知，适当，也可设为全开（always）全关（never）
+
+  style/color_scheme: dark_temple              # 方案命名，不能有空格
+
+  "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
